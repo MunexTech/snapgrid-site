@@ -1,8 +1,3 @@
-# app-ads.txt for Snapgrid: Block Puzzle. Serve this file at https://snapgrid.munex.in/app-ads.txt, the
-# website listed on the Play Store page. AdMob's crawler checks that host first and then the parent domain
-# (https://munex.in/app-ads.txt), so one copy at the first location is enough.
-#
-# Add the single line that AdMob shows under Apps > Snapgrid > app-ads.txt, in this form:
-#   google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
-# where pub-XXXXXXXXXXXXXXXX is your AdMob publisher id. It cannot be filled in until the AdMob
-# account exists; lines starting with # are comments and are ignored by crawlers.
+# app-ads.txt for Snapgrid: Block Puzzle (Munex). Served at https://snapgrid.munex.in/app-ads.txt, the website
+# listed on the Play Store page; AdMob's crawler checks that host first and then the parent domain munex.in.
+google.com, pub-6840113132710196, DIRECT, f08c47fec0942fa0
